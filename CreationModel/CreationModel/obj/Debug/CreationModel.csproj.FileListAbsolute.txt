@@ -1,0 +1,6 @@
+D:\С#\CreationModel\CreationModel\bin\Debug\CreationModel.dll
+D:\С#\CreationModel\CreationModel\bin\Debug\CreationModel.pdb
+D:\С#\CreationModel\CreationModel\obj\Debug\CreationModel.csproj.AssemblyReference.cache
+D:\С#\CreationModel\CreationModel\obj\Debug\CreationModel.csproj.CoreCompileInputs.cache
+D:\С#\CreationModel\CreationModel\obj\Debug\CreationModel.dll
+D:\С#\CreationModel\CreationModel\obj\Debug\CreationModel.pdb
